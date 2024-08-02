@@ -1,0 +1,59 @@
+.okay {
+    display:flex;
+    justify-content:space-between;
+}
+
+.second{
+    display:flex;
+    justify-content:space-between;
+}
+
+.third{
+    display:flex;
+    justify-content:space-between;
+}
+
+.release{
+    background-color: white !important;
+}
+
+
+.tools{
+    background-color: white !important;
+}
+
+.fourth{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.fifth{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.sixth{
+    display:flex;
+    justify-content:space-between;
+}
+.seventh{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.header-menu{
+	width:70%;
+	float:right;
+	margin-top:1.3rem;
+    background-attachment:fixed;
+}
+
+
+#icon-one{
+    float:right;
+}
+
+
